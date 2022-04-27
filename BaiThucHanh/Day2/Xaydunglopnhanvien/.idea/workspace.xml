@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d65d90ee-4296-4e83-94b8-b44302b37915" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Arc/Circle.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arc/Main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quanlinhanvien/Member.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Baitap/Day1/ArrowFunction/ArrowFunction.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Baitap/Day1/ArrowFunction/ArrowFunction.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Baitap/Day1/ArrowFunction/Destructuring/destructuringassignment.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Baitap/Day1/ArrowFunction/Destructuring/destructuringassignment.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Baitap/Day1/ArrowFunction/Khaibaogiatrimacdinhchothamso/Khaibaogiatrimacdinhchothamso.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Baitap/Day1/ArrowFunction/Khaibaogiatrimacdinhchothamso/Khaibaogiatrimacdinhchothamso.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DefaultParameters.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day1/Dèault/DefaultParameters.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DefaultParameters.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day1/Dèault/DefaultParameters.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lambda.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day1/Lamba/Lambda.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lambda.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day1/Lamba/Lambda.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SpreadAttributestrongES6Assignment.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day1/Speread/SpreadAttributestrongES6Assignment.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SpreadAttributestrongES6Assignment.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day1/Speread/SpreadAttributestrongES6Assignment.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VonglapfortrongES6.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day1/vonglap/VonglapfortrongES6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../destructuringassignmenttrongES6.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day1/destructuring/destructuringassignmenttrongES6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../destructuringassignmenttrongES6.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day1/destructuring/destructuringassignmenttrongES6.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vonglapfortrongES6.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day1/vonglap/vonglapfortrongES6.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="28NBiVmLpMW88jKq6tiZDZPimnq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../quanlinhanvien" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2021.3.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d65d90ee-4296-4e83-94b8-b44302b37915" name="Changes" comment="" />
+      <created>1651047291134</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1651047291134</updated>
+      <workItem from="1651047292248" duration="11000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/Main.js" />
+      </list>
+    </option>
+  </component>
+</project>
