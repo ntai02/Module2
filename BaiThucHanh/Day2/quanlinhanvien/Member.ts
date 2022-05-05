@@ -28,11 +28,14 @@ class Member {
     }
 
 }
+
 let member: Member[] = []
-member.push(new Member("Nguyen Van A", Gender.Male,new Date(20/11/1999),"khongcoemail@gmail.com",19001001))
-member.push(new Member("Nguyen Chi Dung",Gender.Female,new Date(1995),"ChiDung@gmail.com",1009,Position.garbageCollector))
+
+    member.push(new Member("Nguyen Van A", Gender.Male, new Date(20 / 11 / 1999), "khongcoemail@gmail.com", 19001001))
+    member.push(new Member("Nguyen Chi Dung", Gender.Female, new Date(1995), "ChiDung@gmail.com", 1009, Position.garbageCollector))
 
 function showMember(member : Member) {
     console.log(member)
 }
 member.forEach(showMember)
+

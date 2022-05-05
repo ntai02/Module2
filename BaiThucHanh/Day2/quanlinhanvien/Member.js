@@ -14,8 +14,14 @@ var Member = /** @class */ (function () {
     return Member;
 }());
 var member = [];
-member.push(new Member("Nguyen Van A", Gender_1.Gender.Male, new Date(20 / 11 / 1999), "khongcoemail@gmail.com", +8419001001));
-member.push(new Member("Nguyen Chi Dung", Gender_1.Gender.Female, new Date(1995), "ChiDung@gmail.com", +84009, Position_1.Position.garbageCollector));
+// function pushMember() {
+member.push(new Member("Nguyen Van A", Gender_1.Gender.Male, new Date(20 / 11 / 1999), "khongcoemail@gmail.com", 19001001));
+member.push(new Member("Nguyen Chi Dung", Gender_1.Gender.Female, new Date(1995), "ChiDung@gmail.com", 1009, Position_1.Position.garbageCollector));
+// }
+// function deleteMember() {
+//
+// }
+//
 function showMember(member) {
     console.log(member);
 }

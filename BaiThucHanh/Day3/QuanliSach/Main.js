@@ -1,0 +1,13 @@
+"use strict";
+exports.__esModule = true;
+var Book_1 = require("./Book");
+var BookManager_1 = require("./BookManager");
+var book = new Book_1.Book("01", "Nhung dua tre");
+var book1 = new Book_1.Book("02", "Ong giao");
+var book2 = new Book_1.Book("03", "Alo");
+var bookManager = new BookManager_1.BookManager();
+bookManager.addBook(book1);
+bookManager.addBook(book2);
+bookManager.addBook(book);
+bookManager.update("03", "Ong giao di tu");
+console.log(bookManager.getList());

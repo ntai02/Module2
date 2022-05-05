@@ -1,0 +1,10 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+var Manager_1 = require("./Manager");
+var QLSP_1 = require("./QLSP");
+var laptop = new QLSP_1.Product("laptop", 2000);
+var macbook = new QLSP_1.Product("macbook", 3000);
+var productManager = new Manager_1.ProductManager();
+productManager.add = laptop;
+productManager.add = macbook;
+console.log(productManager.getAll);
